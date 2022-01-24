@@ -69,6 +69,7 @@ table {
   width: 100%;
   table-layout: fixed;
   overflow-wrap: break-word;
+  text-align: left;
   display: table !important;
   margin-top: 10px;
 }
