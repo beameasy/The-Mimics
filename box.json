@@ -1,4 +1,5 @@
 {
+  "infura": "75dbdd210249472ab45796d945bf16e9",
   "network": "main",
   "contract": "0x6F2bf15b26971BBAd60C56aac775ab9fC6db1155"
 }
